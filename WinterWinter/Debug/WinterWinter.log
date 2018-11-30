@@ -1,0 +1,4 @@
+﻿  WinterWinter.cpp
+d:\tanya\fmi\kurs2\sem1\сда\2018_2019\winterwinter\winterwinter.cpp(43): warning C4244: 'initializing': conversion from 'double' to 'long', possible loss of data
+d:\tanya\fmi\kurs2\sem1\сда\2018_2019\winterwinter\winterwinter.cpp(52): warning C4244: '+=': conversion from 'double' to 'long', possible loss of data
+  WinterWinter.vcxproj -> D:\Tanya\FMI\Kurs2\Sem1\СДА\2018_2019\WinterWinter\Debug\WinterWinter.exe
