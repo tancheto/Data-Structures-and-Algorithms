@@ -1,0 +1,4 @@
+﻿  Puteka.cpp
+d:\tanya\fmi\kurs2\sem1\sda\2018_2019\puteka\puteka.cpp(58): warning C4244: 'argument': conversion from '__int64' to 'long', possible loss of data
+d:\tanya\fmi\kurs2\sem1\sda\2018_2019\puteka\puteka.cpp(77): warning C4244: 'argument': conversion from '__int64' to 'long', possible loss of data
+  Puteka.vcxproj -> D:\Tanya\FMI\Kurs2\Sem1\SDA\2018_2019\Puteka\Debug\Puteka.exe
