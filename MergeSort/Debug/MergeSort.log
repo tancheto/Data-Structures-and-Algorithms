@@ -1,0 +1,5 @@
+﻿  stdafx.cpp
+  MergeSort.cpp
+d:\tanya\fmi\kurs2\sem1\сда\2018_2019\mergesort\mergesort.cpp(69): warning C4101: 'n': unreferenced local variable
+d:\tanya\fmi\kurs2\sem1\сда\2018_2019\mergesort\mergesort.cpp(69): warning C4101: 't': unreferenced local variable
+  MergeSort.vcxproj -> D:\Tanya\FMI\Kurs2\Sem1\СДА\2018_2019\MergeSort\Debug\MergeSort.exe
